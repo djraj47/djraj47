@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **C , C++ , Python**
 
-- 📫 How to reach me **rajnimcet@hmail.com**
+- 📫 How to reach me **rajnimcet@gmail.com**
 
 - ⚡ Fun fact **I think i am too lazy. 🤣**
 
