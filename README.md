@@ -16,11 +16,11 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C , C++ , Python , JAVA , node.js , GIT **
+- 💬 Ask me about C/C++ , Python , JAVA , node.js , GIT 
 
 - 📫 How to reach me **rajnimcet@gmail.com**
 
-- ⚡ Fun fact **I think i am too lazy. 🤣**
+- ⚡ Fun fact **code more than you read**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
