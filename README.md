@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C , C++ , Python**
+- 💬 Ask me about **C , C++ , Python , JAVA , node.js , GIT **
 
 - 📫 How to reach me **rajnimcet@gmail.com**
 
